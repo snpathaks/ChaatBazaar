@@ -67,7 +67,7 @@ So always follow the below steps, before any Pull request, for the corresponding
 
 
 
-## Method 1: Using Git Commands (Terminal Users)
+## Method 1: Using Git Commands (Terminal Users)::
 
 ### Step - 1 : Fetch latest changes from original repo
    ```bash
